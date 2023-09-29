@@ -3,7 +3,7 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-09-29T10:42:41.380538846+02:00"
+    created: "2023-09-29T11:02:15.771881156+02:00"
     description: bran.tech landing page
     digest: 7f3ee9e032fac1b90d457f6ad2a50a6a37694a0c3a6b65b6529fb3dd0c272eca
     home: https://github.com/bran-tech/landing-page
@@ -13,6 +13,6 @@ entries:
       name: Teo
     name: landing-page
     urls:
-    - https://bran-tech.github.io/helm-charts/landing-page-0.2.0.tgz
+    - https://bran-tech.github.io/helm/charts/landing-page-0.2.0.tgz
     version: 0.2.0
-generated: "2023-09-29T10:42:41.380257547+02:00"
+generated: "2023-09-29T11:02:15.771588477+02:00"
