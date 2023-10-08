@@ -11,7 +11,8 @@
 <h3>Install chart</h3>
 <pre>
 helm repo add bran-tech https://bran-tech.github.io/helm/charts/
-helm upgrade --install site landing-page
+helm repo update
+helm upgrade --install site bran-tech/landing-page
 <pre>
 </body>
 </html>
