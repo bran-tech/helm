@@ -3,9 +3,9 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-09-29T11:02:15.771881156+02:00"
+    created: "2023-10-08T19:28:14.692892855+02:00"
     description: bran.tech landing page
-    digest: 7f3ee9e032fac1b90d457f6ad2a50a6a37694a0c3a6b65b6529fb3dd0c272eca
+    digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
     kubeVersion: '>=1.23.0-0'
     maintainers:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/landing-page-0.2.0.tgz
     version: 0.2.0
-generated: "2023-09-29T11:02:15.771588477+02:00"
+generated: "2023-10-08T19:28:14.692623417+02:00"
