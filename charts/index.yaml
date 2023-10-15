@@ -3,7 +3,27 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-10-15T09:22:36.290981+02:00"
+    created: "2023-10-15T10:14:55.944697+02:00"
+    dependencies:
+    - import-values:
+      - defaults
+      name: helmet
+      repository: https://companyinfo.github.io/helm-charts
+      version: ^0.10.1
+    description: bran.tech landing page
+    digest: 37956660b9493f57aa81279051fd4f50d85a44f110036a2a0671c072d96d5d9e
+    home: https://github.com/bran-tech/landing-page
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: bpteodor@users.noreply.github.com
+      name: Teo
+    name: landing-page
+    urls:
+    - https://bran-tech.github.io/helm/charts/landing-page-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2023-10-15T10:14:55.942126+02:00"
     description: bran.tech landing page
     digest: a7052e30dc4ff1cec545dccd7b0cf457865942b6dd386f2afcb3297dc19f8fe8
     home: https://github.com/bran-tech/landing-page
@@ -17,7 +37,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-10-15T09:22:36.29068+02:00"
+    created: "2023-10-15T10:14:55.941841+02:00"
     description: bran.tech landing page
     digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
@@ -29,4 +49,4 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/landing-page-0.2.0.tgz
     version: 0.2.0
-generated: "2023-10-15T09:22:36.290208+02:00"
+generated: "2023-10-15T10:14:55.941247+02:00"
