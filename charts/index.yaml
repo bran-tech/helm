@@ -3,7 +3,7 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2023-11-03T11:35:10.149727536+01:00"
+    created: "2023-11-03T11:57:53.605985127+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -23,7 +23,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-11-03T11:35:10.148353472+01:00"
+    created: "2023-11-03T11:57:53.604561715+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -43,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-11-03T11:35:10.146848679+01:00"
+    created: "2023-11-03T11:57:53.602553431+01:00"
     description: bran.tech landing page
     digest: a7052e30dc4ff1cec545dccd7b0cf457865942b6dd386f2afcb3297dc19f8fe8
     home: https://github.com/bran-tech/landing-page
@@ -57,7 +57,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-11-03T11:35:10.146189822+01:00"
+    created: "2023-11-03T11:57:53.602264941+01:00"
     description: bran.tech landing page
     digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
@@ -72,9 +72,9 @@ entries:
   poste-io:
   - apiVersion: v2
     appVersion: 2.3.14
-    created: "2023-11-03T11:35:10.150439183+01:00"
+    created: "2023-11-03T11:57:53.606725838+01:00"
     description: Fully functional mail server with free version
-    digest: 3c227df9e3ecbce511380f488ceb0230d58f8d55b75b23ed10d292c1d8cd0391
+    digest: cfd382176ed7f2e25c09ee7590774419cd0fb0c92fb0135a0afd5910ce4d7874
     home: https://poste.io/
     icon: https://poste.io/favicon.ico
     keywords:
@@ -92,7 +92,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 2.3.14
-    created: "2023-11-03T11:35:10.150118584+01:00"
+    created: "2023-11-03T11:57:53.606382638+01:00"
     description: Fully functional mail server with free version
     digest: fb70f948418821f4ee1a4f655ac60a9993de720688eb426f636af7c19cd5738e
     home: https://poste.io/
@@ -110,4 +110,4 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/poste-io-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-03T11:35:10.145945843+01:00"
+generated: "2023-11-03T11:57:53.602019101+01:00"
