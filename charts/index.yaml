@@ -3,7 +3,7 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2023-10-17T22:35:25.456467+02:00"
+    created: "2023-11-03T11:04:47.312953237+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -23,7 +23,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-10-17T22:35:25.453224+02:00"
+    created: "2023-11-03T11:04:47.311388506+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -43,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-10-17T22:35:25.450194+02:00"
+    created: "2023-11-03T11:04:47.309523391+01:00"
     description: bran.tech landing page
     digest: a7052e30dc4ff1cec545dccd7b0cf457865942b6dd386f2afcb3297dc19f8fe8
     home: https://github.com/bran-tech/landing-page
@@ -57,7 +57,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-10-17T22:35:25.449635+02:00"
+    created: "2023-11-03T11:04:47.309344845+01:00"
     description: bran.tech landing page
     digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
@@ -69,4 +69,25 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/landing-page-0.2.0.tgz
     version: 0.2.0
-generated: "2023-10-17T22:35:25.448741+02:00"
+  poste-io:
+  - apiVersion: v2
+    appVersion: 2.3.14
+    created: "2023-11-03T11:04:47.31332809+01:00"
+    description: Fully functional mail server with free version
+    digest: fb70f948418821f4ee1a4f655ac60a9993de720688eb426f636af7c19cd5738e
+    home: https://poste.io/
+    icon: https://poste.io/favicon.ico
+    keywords:
+    - mail
+    - poste.io
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: bpteodor@users.noreply.github.com
+      name: Teo
+    name: poste-io
+    sources:
+    - https://github.com/bran-tech/poste-io
+    urls:
+    - https://bran-tech.github.io/helm/charts/poste-io-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-03T11:04:47.308288884+01:00"
