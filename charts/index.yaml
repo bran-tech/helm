@@ -3,7 +3,7 @@ entries:
   landing-page:
   - apiVersion: v2
     appVersion: 0.6.2
-    created: "2024-02-22T09:01:19.46685577+01:00"
+    created: "2024-02-22T09:13:22.289503069+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -23,7 +23,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2024-02-22T09:01:19.465611547+01:00"
+    created: "2024-02-22T09:13:22.288251947+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -43,7 +43,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2024-02-22T09:01:19.463752028+01:00"
+    created: "2024-02-22T09:13:22.286987695+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -63,7 +63,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-22T09:01:19.462467775+01:00"
+    created: "2024-02-22T09:13:22.285709103+01:00"
     dependencies:
     - import-values:
       - defaults
@@ -83,7 +83,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-22T09:01:19.460860654+01:00"
+    created: "2024-02-22T09:13:22.283477168+01:00"
     description: bran.tech landing page
     digest: a7052e30dc4ff1cec545dccd7b0cf457865942b6dd386f2afcb3297dc19f8fe8
     home: https://github.com/bran-tech/landing-page
@@ -97,7 +97,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-22T09:01:19.460542166+01:00"
+    created: "2024-02-22T09:13:22.282752463+01:00"
     description: bran.tech landing page
     digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
@@ -112,9 +112,9 @@ entries:
   poste-io:
   - apiVersion: v2
     appVersion: 2.3.19
-    created: "2024-02-22T09:01:19.467410947+01:00"
+    created: "2024-02-22T09:13:22.291067148+01:00"
     description: Fully functional mail server with free version
-    digest: 4d3c570b303ae312a7ab7064f8b0a7c579b5673dfc4ff477fe17a94a3c0afb65
+    digest: f905a5ebcd904926211ecd8447ed780f87e642a3ad8c3c81f3b6f27e4041793c
     home: https://poste.io/
     icon: https://poste.io/favicon.ico
     keywords:
@@ -130,4 +130,4 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/poste-io-0.2.0.tgz
     version: 0.2.0
-generated: "2024-02-22T09:01:19.459458672+01:00"
+generated: "2024-02-22T09:13:22.282500955+01:00"
