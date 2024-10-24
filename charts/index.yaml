@@ -2,8 +2,27 @@ apiVersion: v1
 entries:
   landing-page:
   - apiVersion: v2
+    created: "2024-10-24T19:10:26.351356+02:00"
+    dependencies:
+    - import-values:
+      - defaults
+      name: helmet
+      repository: https://companyinfo.github.io/helm-charts
+      version: ^0.11.0
+    description: bran.tech landing page
+    digest: c878c9277d2055ee87eee3a9f5a0f4d88d9bb3a6aa8a8d2ed47dab09a93c9e3e
+    home: https://github.com/bran-tech/landing-page
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: bpteodor@users.noreply.github.com
+      name: Teo
+    name: landing-page
+    urls:
+    - https://bran-tech.github.io/helm/charts/landing-page-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
     appVersion: 0.6.2
-    created: "2024-02-25T09:30:13.392368+01:00"
+    created: "2024-10-24T19:10:26.349676+02:00"
     dependencies:
     - import-values:
       - defaults
@@ -23,7 +42,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2024-02-25T09:30:13.391065+01:00"
+    created: "2024-10-24T19:10:26.346894+02:00"
     dependencies:
     - import-values:
       - defaults
@@ -43,7 +62,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2024-02-25T09:30:13.389659+01:00"
+    created: "2024-10-24T19:10:26.34482+02:00"
     dependencies:
     - import-values:
       - defaults
@@ -63,7 +82,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-25T09:30:13.388227+01:00"
+    created: "2024-10-24T19:10:26.342872+02:00"
     dependencies:
     - import-values:
       - defaults
@@ -83,7 +102,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-25T09:30:13.386748+01:00"
+    created: "2024-10-24T19:10:26.340677+02:00"
     description: bran.tech landing page
     digest: a7052e30dc4ff1cec545dccd7b0cf457865942b6dd386f2afcb3297dc19f8fe8
     home: https://github.com/bran-tech/landing-page
@@ -97,7 +116,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-02-25T09:30:13.386373+01:00"
+    created: "2024-10-24T19:10:26.339873+02:00"
     description: bran.tech landing page
     digest: 903d81d4d681f705a434b800ced68868999dfc19213d50e1ca0001fb2edb9ca1
     home: https://github.com/bran-tech/landing-page
@@ -112,7 +131,7 @@ entries:
   poste-io:
   - apiVersion: v2
     appVersion: 2.3.19
-    created: "2024-02-25T09:30:13.394095+01:00"
+    created: "2024-10-24T19:10:26.35306+02:00"
     description: Fully functional mail server with free version
     digest: f511c3c85caaf1f7ead58b93a3ac2dcd1f0307ad15918c9c86cbb19d4927fd06
     home: https://poste.io/
@@ -132,7 +151,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.3.19
-    created: "2024-02-25T09:30:13.393412+01:00"
+    created: "2024-10-24T19:10:26.352578+02:00"
     description: Fully functional mail server with free version
     digest: f905a5ebcd904926211ecd8447ed780f87e642a3ad8c3c81f3b6f27e4041793c
     home: https://poste.io/
@@ -150,4 +169,4 @@ entries:
     urls:
     - https://bran-tech.github.io/helm/charts/poste-io-0.2.0.tgz
     version: 0.2.0
-generated: "2024-02-25T09:30:13.385785+01:00"
+generated: "2024-10-24T19:10:26.338891+02:00"
